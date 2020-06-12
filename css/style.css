@@ -35,6 +35,12 @@ body {
   margin-left: 20px;
   text-decoration: none;
 }
+.CompanyScreen{
+  width: 400px;
+  height: 300px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
 .container .hero-sub {
   display: block;
   font-size: 24px;
@@ -197,6 +203,10 @@ body {
 .projects .projects-slide .project-text .project-feedback img {
   margin-bottom: 10px;
 }
+.call_devop{
+  text-decoration: none;
+  color: #000;
+}
 .contacts-form {
   background: #FFFFFF;
   -webkit-box-shadow: -5px 5px 0px #ffc41d;
@@ -317,5 +327,7 @@ body {
   }
   .project-image {
     margin-bottom: 40px;
+    width: 200px;
+    height: 200px;
   }
 }
